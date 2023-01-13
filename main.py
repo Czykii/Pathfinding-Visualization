@@ -1,3 +1,5 @@
+#Program napisany z pomocą tutorialu: https://www.youtube.com/watch?v=JtiK0DOeI4A&ab_channel=TechWithTim
+
 import pygame
 import math
 from queue import PriorityQueue

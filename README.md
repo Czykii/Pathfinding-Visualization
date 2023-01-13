@@ -4,7 +4,7 @@
 <div style="text-align: right"><b>Kacper Czykierda</b></div>
 
 ## **1. Wstęp**
-Program wykonany jako projekt zaliczeniowy z kursu Język Python w roku akademickim 2022/2023
+Program wykonany jako projekt zaliczeniowy z kursu Język Python w roku akademickim 2022/2023.
 
 ----------
 <br>
@@ -22,7 +22,7 @@ Po wybraniu odpowiednich pól i włączeniu algorytmu program zaczyna szukać na
 W momencie znalezienia najkrótszej ścieżki z pola startowego do końcowego pola stanowiące tą ścieżkę zostaną oznaczone kolorem fioletowym.
 <br>
 <br>
-Program napisany z pomocą tutorialu: https://www.youtube.com/watch?v=JtiK0DOeI4A&ab_channel=TechWithTim
+Program został napisany z pomocą tutorialu: https://www.youtube.com/watch?v=JtiK0DOeI4A&ab_channel=TechWithTim
 
 ----------
 <br>
