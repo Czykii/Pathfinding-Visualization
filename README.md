@@ -1,4 +1,4 @@
-# **Wizualizacja algorytmów A* oraz Dijkstry**
+# **Wizualizacja algorytmów A-star oraz Dijkstry**
 
 <br>
 <div style="text-align: right"><b>Kacper Czykierda</b></div>
